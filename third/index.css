@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    font-family: 'Roboto',sans-serif;
+}
+.row {
+    width: 100%;
+    height: 100px;
+}
+
+.status {
+    height: 75px;
+    width: 75px;
+    background: #4a90e2;
+    box-sizing: border-box;
+    padding: 15px 17px;
+}
+
+.fontawesome {
+    color: #fff;
+    font-size: -webkit-xxx-large;
+}
+
+.fontawesome:hover {
+    color: #d8d8d8;
+}
+
+.one {
+    background-color: #d8d8d8;
+    box-sizing: border-box;
+    padding: 12px 25px;
+}
+
+.one:hover {
+    background: #fff;
+}
+
+.consider-row {
+    background-color: #fff;
+    height: 300px;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.consider-row:hover {
+    background: #d8d8d8;
+}
+
+.three {
+    background-color: #4a90e2;
+}
+
+.three:hover {
+    background-color: #fff;
+}
+
+.four {
+    background-color: #50e3c2;
+}
+
+.four:hover {
+    background-color: #fff;
+}
+
+.five {
+    background-color: #b8e986;
+}
+
+.five:hover {
+    background-color: #fff;
+}
+
+.six {
+    background-color: #f8e71c;
+}
+
+.six:hover {
+    background-color: #fff;
+}
+
